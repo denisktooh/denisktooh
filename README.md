@@ -60,7 +60,7 @@ I enjoy building **scalable backend systems, interactive frontends, and intellig
 
 💬 *Just so you know:* I’m not big on social media posting — I prefer sharing progress through my projects and repositories! 😅  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kiprotich-a8a77124a/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kiprotich507)  
-📧 [denis.k.too@gmail.com](mailto:denis.k.too@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kiprotich-a8a77124a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.k.too@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kiprotich507)
 ```
