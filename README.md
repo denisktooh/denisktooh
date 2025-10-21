@@ -2,9 +2,9 @@
 
 💻 Full Stack Developer | Machine Learning Enthusiast  
 👀 Passionate about building end-to-end web applications and data-driven systems  
-🌱 Currently learning: **ALX ProDev Backend Program** (advancing full-stack capabilities)  
+🌱 Currently learning: **ALX ProDev Frontend Program** (advancing full-stack capabilities)  
 🎓 Studied B.Sc. Mathematics & Computer Science at **JKUAT**  
-🧠 Completed Machine Learning & Data Science course at **Tech Expert Academy**  
+<!-- 🧠 Completed Machine Learning & Data Science course at **Tech Expert Academy**   -->
 ✅ Completed a 3-month **Full Stack Development Internship (Jan–Mar 2025)** at **Leizam Ventures**  
 
 ---
@@ -15,10 +15,10 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)-->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,16 +43,16 @@
 I’m Denis Kiprotich, a curious and growth-driven developer from Kenya with a strong passion for technology and continuous learning.  
 I enjoy building **scalable backend systems, interactive frontends, and intelligent data-driven applications** that solve real-world problems.
 
-💡 My approach combines logic and creativity — bridging backend functionality with intuitive user experiences.  
+<!--💡 My approach combines logic and creativity — bridging backend functionality with intuitive user experiences.  
 
-🌍 *GCGO Focus:* Governance to reduce corruption among youth, especially in employment.
+🌍 *GCGO Focus:* Governance to reduce corruption among youth, especially in employment.-->
 
 ---
 
 ## 💼 GitHub Accounts
 
-- **Main Profile:** [github.com/denisktoo](https://github.com/denisktoo)  
-- **Additional Account (Side Projects & Experiments):** [github.com/deni-kip](https://github.com/deni-kip)
+- **Main Profile:** <!--[github.com/denisktoo](https://github.com/denisktoo)-->
+- **Additional Account (Side Projects & Experiments):** [github.com/denisktooh](https://github.com/denisktooh)
 
 ---
 
