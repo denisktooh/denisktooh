@@ -58,7 +58,7 @@ I enjoy building **scalable backend systems, interactive frontends, and intellig
 
 ## 📫 Let's Connect
 
-💬 *Just so you know:* I’m not big on social media posting — I prefer sharing progress through my projects and repositories! 😅  
+💬 *Just so you know:* I’m not big on social media posting, so you won't find much about me there! 😅  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kiprotich-a8a77124a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.k.too@gmail.com)
