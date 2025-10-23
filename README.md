@@ -2,10 +2,10 @@
 
 💻 Full Stack Developer | Machine Learning Enthusiast  
 👀 Passionate about building end-to-end web applications and data-driven systems  
-🌱 Currently learning: **ALX ProDev Frontend Program** (advancing full-stack capabilities)  
+🌱 Currently learning: **ALX ProDev Frontend Program** <!-- (advancing full-stack capabilities)  -->
 🎓 Studied B.Sc. Mathematics & Computer Science at **JKUAT**  
 <!-- 🧠 Completed Machine Learning & Data Science course at **Tech Expert Academy**   -->
-✅ Completed a 3-month **Full Stack Development Internship (Jan–Mar 2025)** at **Leizam Ventures**  
+<!-- ✅ Completed a 3-month **Full Stack Development Internship (Jan–Mar 2025)** at **Leizam Ventures** -->
 
 ---
 
