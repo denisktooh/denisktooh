@@ -51,7 +51,7 @@ I enjoy building **scalable backend systems, interactive frontends, and intellig
 
 ## 💼 GitHub Accounts
 
-- **Main Profile:** <!--[github.com/denisktoo](https://github.com/denisktoo)-->
+- **Main Github Account:** <!--[github.com/denisktoo](https://github.com/denisktoo)-->
 - **Additional Account (Side Projects & Experiments):** [github.com/denisktooh](https://github.com/denisktooh)
 
 ---
